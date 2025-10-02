@@ -1,2 +1,2 @@
 # Server-Administration-Repo
-Azure Server Repositiry
+Azure Server Repository
